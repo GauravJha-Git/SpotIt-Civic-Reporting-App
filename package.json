@@ -59,7 +59,7 @@
             "vite": "^6.3.6"
       },
       "scripts": {
-            "dev": "vite",
+            "dev": "BROWSER=none vite",
             "build": "vite build"
             
       }
